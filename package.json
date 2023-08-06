@@ -1,0 +1,21 @@
+{
+  "name": "selenium-javascript-kasiraja",
+  "version": "1.0.0",
+  "description": "selenium javascript kasiraja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selenium",
+    "selenium_javascript"
+  ],
+  "author": "Dwiky Kurniawan",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^115.0.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.11.1"
+  }
+}
